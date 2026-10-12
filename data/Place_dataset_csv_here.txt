@@ -1,0 +1,1 @@
+Copy the CSV downloaded from Kaggle into this folder, or upload it in the dashboard sidebar.
